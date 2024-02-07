@@ -1,6 +1,5 @@
 getallheaders
 =============
-
 PHP `getallheaders()` polyfill. Compatible with PHP >= 5.3.
 
 [![Build Status](https://travis-ci.org/ralouphie/getallheaders.svg?branch=master)](https://travis-ci.org/ralouphie/getallheaders)
